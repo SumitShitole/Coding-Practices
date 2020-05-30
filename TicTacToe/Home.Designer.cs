@@ -135,7 +135,7 @@
             this.NGButton.TabIndex = 9;
             this.NGButton.Text = "New Game";
             this.NGButton.UseVisualStyleBackColor = true;
-            this.NGButton.Click += new System.EventHandler(this.NewGame);
+            this.NGButton.Click += new System.EventHandler(this.NGButton_Click);
             // 
             // RButton
             // 
@@ -146,6 +146,7 @@
             this.RButton.TabIndex = 10;
             this.RButton.Text = "Reset";
             this.RButton.UseVisualStyleBackColor = true;
+            this.RButton.Click += new System.EventHandler(this.RButton_Click);
             // 
             // EButton
             // 
@@ -156,6 +157,7 @@
             this.EButton.TabIndex = 11;
             this.EButton.Text = "Exit";
             this.EButton.UseVisualStyleBackColor = true;
+            this.EButton.Click += new System.EventHandler(this.EButton_Click);
             // 
             // XWin
             // 
@@ -197,7 +199,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 358);
+            this.ClientSize = new System.Drawing.Size(286, 353);
             this.Controls.Add(this.Draw);
             this.Controls.Add(this.OWin);
             this.Controls.Add(this.XWin);
