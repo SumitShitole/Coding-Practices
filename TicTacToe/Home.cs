@@ -47,5 +47,12 @@ namespace TicTacToe
             OWin.Text = "O : " + Player2Score;
             Draw.Text = "Draw : " + DrawScore;
         }
+
+        private void NewGame(object sender, EventArgs e)
+        {
+            int TurnOfPlayer = 2;
+            int turns = 0;
+            A00.Text = A01.Text = A02.Text = A10.Text = A11.Text = A12.Text = A20.Text = A21.Text = A22.Text = "";
+        }
     }
 }

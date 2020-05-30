@@ -135,6 +135,7 @@
             this.NGButton.TabIndex = 9;
             this.NGButton.Text = "New Game";
             this.NGButton.UseVisualStyleBackColor = true;
+            this.NGButton.Click += new System.EventHandler(this.NewGame);
             // 
             // RButton
             // 
