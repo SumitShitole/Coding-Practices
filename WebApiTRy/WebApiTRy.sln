@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTRy", "WebApiTRy.csproj", "{836EDF02-8A1D-4AE2-8A0E-1A1FCB5AF639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTRy.Tests", "..\WebApiTRy.Tests\WebApiTRy.Tests.csproj", "{265ABD82-E2B9-429A-8818-16C06A237EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836EDF02-8A1D-4AE2-8A0E-1A1FCB5AF639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836EDF02-8A1D-4AE2-8A0E-1A1FCB5AF639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836EDF02-8A1D-4AE2-8A0E-1A1FCB5AF639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836EDF02-8A1D-4AE2-8A0E-1A1FCB5AF639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265ABD82-E2B9-429A-8818-16C06A237EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265ABD82-E2B9-429A-8818-16C06A237EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265ABD82-E2B9-429A-8818-16C06A237EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265ABD82-E2B9-429A-8818-16C06A237EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6E73D6-4EDD-4DE9-819E-15C2EB902E4D}
+	EndGlobalSection
+EndGlobal
