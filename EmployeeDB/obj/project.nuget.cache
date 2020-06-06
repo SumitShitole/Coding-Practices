@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z46TCyu8OAJFljewuwo5xxkvhSNVzMaue7zSbo2Mx9VhuBlU5PIwPZfxZrViIm9Et0Z3nyUIWq5vm/e2KNU+Vw==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\VS Projects\\EmployeeDB\\EmployeeDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumit-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sumit-PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

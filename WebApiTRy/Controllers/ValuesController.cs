@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EmployeeDB;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -10,10 +11,11 @@ namespace WebApiTRy.Controllers
     public class ValuesController : ApiController
     {
         // GET api/values
-        public IEnumerable<string> Get()
+        public Employee  Get()
         {
-            return new string[] { "value1", "value2" };
-        }
+            // return new string[] { "value1", "value2" };
+            return new Employee { ID = "1", Name = "Sumit", Salary = "$20" };
+        } 
 
         // GET api/values/5
         public string Get(int id)

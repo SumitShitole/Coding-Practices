@@ -83,3 +83,5 @@ D:\Study\VS Projects\WebApiTRy\obj\Debug\WebApiTRy.csproj.CoreCompileInputs.cach
 D:\Study\VS Projects\WebApiTRy\obj\Debug\WebApiTRy.csproj.CopyComplete
 D:\Study\VS Projects\WebApiTRy\obj\Debug\WebApiTRy.dll
 D:\Study\VS Projects\WebApiTRy\obj\Debug\WebApiTRy.pdb
+D:\Study\VS Projects\WebApiTRy\bin\EmployeeDB.dll
+D:\Study\VS Projects\WebApiTRy\bin\EmployeeDB.pdb
